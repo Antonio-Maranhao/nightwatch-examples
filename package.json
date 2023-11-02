@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/nightwatchjs/nightwatch-examples#readme",
   "dependencies": {
-    "nightwatch": "^2.6.19"
+    "nightwatch": "^3.1.3"
   },
   "devDependencies": {
     "@nightwatch/selenium-server": "^4.5.0",
